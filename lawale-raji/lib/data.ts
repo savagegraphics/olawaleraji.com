@@ -34,8 +34,8 @@ export const projects: Project[] = [
     description:
       'A modern travel website showcasing beautiful destinations with immersive UI animations and responsive layouts. Implements advanced filtering and booking capabilities.',
     technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'React'],
-    image: '/images/Trektopia.png?height=340&width=600',
-    link: 'https://traveler-beta.vercel.app/'
+    image: '/images/trectopi.png?height=340&width=600',
+    link: 'https://trektopia-lpubgrkxp-savagegraphics-projects.vercel.app/'
   }
   // {
   //   id: 5,
