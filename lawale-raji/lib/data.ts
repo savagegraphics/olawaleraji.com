@@ -8,7 +8,7 @@ export const projects: Project[] = [
       'A full-featured e-commerce solution with responsive product displays, cart functionality, and seamless checkout experience. Implements modern UI patterns and performance optimizations.',
     technologies: ['React', 'Next.js', 'Tailwind CSS', 'API Integration'],
     image: '/images/furniture-ware-house.png?height=340&width=600', // Replace with your screenshot
-    link: 'https://kzmphctkab12pjgufbru.lite.vusercontent.net/'
+    link: 'https://v0-next-js-shadcn-ui-ookq47l4erl.vercel.app/'
   },
   {
     id: 2,
