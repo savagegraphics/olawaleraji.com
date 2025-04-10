@@ -3,12 +3,12 @@ import type { Project } from './types'
 export const projects: Project[] = [
   {
     id: 1,
-    title: 'E-Commerce Platform',
+    title: 'Furecom E-Commerce Platform',
     description:
-      'A full-featured e-commerce solution with responsive product displays, cart functionality, and seamless checkout experience. Implements modern UI patterns and performance optimizations.',
+      'Furecom A full-featured e-commerce solution with responsive product displays, cart functionality, and seamless checkout experience. Implements modern UI patterns and performance optimizations.',
     technologies: ['React', 'Next.js', 'Tailwind CSS', 'API Integration'],
     image: '/images/furniture-ware-house.png?height=340&width=600', // Replace with your screenshot
-    link: 'https://v0-next-js-shadcn-ui-ookq47l4erl.vercel.app/'
+    link: 'https://furecom-furniture.vercel.app/'
   },
   {
     id: 2,
@@ -35,7 +35,7 @@ export const projects: Project[] = [
       'A modern travel website showcasing beautiful destinations with immersive UI animations and responsive layouts. Implements advanced filtering and booking capabilities.',
     technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'React'],
     image: '/images/trectopi.png?height=340&width=600',
-    link: 'https://trektopia-lpubgrkxp-savagegraphics-projects.vercel.app/'
+    link: 'https://trektopia.vercel.app/'
   }
   // {
   //   id: 5,
